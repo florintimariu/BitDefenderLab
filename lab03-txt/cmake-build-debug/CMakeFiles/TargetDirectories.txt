@@ -1,0 +1,3 @@
+C:/Users/Florin/CLionProjects/lab03-txt/cmake-build-debug/CMakeFiles/lab03.dir
+C:/Users/Florin/CLionProjects/lab03-txt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Florin/CLionProjects/lab03-txt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
